@@ -7,5 +7,7 @@ __pycache__/
 data/
 data_large/
 reports/
+reports_*/
+state/
 final_state.csv
 .pytest_cache/
